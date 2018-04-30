@@ -20,7 +20,7 @@ import com.denvar.airport.baggageroute.service.RoutingService;
 /**
  * @author sivakkannanmuthukumar
  * 
- *         This class is not Thread safe Methods in this class are used to
+ *         This class is not Thread safe. Methods in this class are used to
  *         transform and process inbound string data for vertices, edges and
  *         search shortest path for destination.
  * 
